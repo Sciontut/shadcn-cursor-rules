@@ -36,4 +36,6 @@ The `shadcn-reference/` files are exact copies from the source skill (Incorrect/
 
 ## Source & license
 
-Adapted from [shadcn-ui/ui → skills/shadcn](https://github.com/shadcn-ui/ui/tree/main/skills/shadcn), MIT licensed. Component knowledge tracks the upstream skill at the time of conversion; for the latest, re-pull from source.
+This Cursor rule adapts material from [shadcn-ui/ui → skills/shadcn](https://github.com/shadcn-ui/ui/tree/main/skills/shadcn). The upstream project is MIT licensed; see [LICENSE](LICENSE) for the preserved upstream license and copyright notice.
+
+The underlying shadcn documentation and skill content are the work of the shadcn/ui authors. Only the Cursor packaging and the adaptations described above are maintained by Michael McCollough ([Sciontut](https://github.com/Sciontut)). Component knowledge tracks the upstream skill at the time of conversion; for the latest, re-pull from source.
